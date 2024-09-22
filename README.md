@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @Le3Dev
-- 👀 I’m interested in gaining new knowledge about technology
-- 🌱 I'm currently learning about Back-End and the leanguage Java
-- 💞️ I’m looking to collaborate on my studies and my professional career
-- 📫 How to reach me, if you need to talk to me send me a email(leandrocanha10@gmail.com) or follow me on instagram (@leandrocanha).
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+My name is Leandro Canha, and I am a Software Engineering student. From an early age, I have always been passionate about technology and helping people, something I consider my greatest passion. With familiarity in languages such as Java, Python, HTML, CSS, ReactJS, and JavaScript, I always strive to combine my technical skills with the desire to create solutions that make a difference in people's daily lives.
+i have 18 years
+i love pokemon tcg
 <!---
 Le3Dev/Le3Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
