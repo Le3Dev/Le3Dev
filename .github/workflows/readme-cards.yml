@@ -1,0 +1,59 @@
+name: Atualizar cards do README
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # todo dia, 03:00 em Brasília
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/readme-cards.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Paleta Claude: terracota D97757 / C15F3C, creme FAF9F5, grafite 262624
+      - name: Stats (claro)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&show=prs_merged_percentage&hide_border=true&bg_color=FAF9F5&title_color=C15F3C&text_color=141413&icon_color=D97757&ring_color=D97757
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Stats (escuro)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&show=prs_merged_percentage&hide_border=true&bg_color=262624&title_color=D97757&text_color=F0EEE6&icon_color=D97757&ring_color=D97757
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Linguagens (claro)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&bg_color=FAF9F5&title_color=C15F3C&text_color=141413
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Linguagens (escuro)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&bg_color=262624&title_color=D97757&text_color=F0EEE6
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit dos cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "chore: atualiza cards do README" || exit 0
+          git push
