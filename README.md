@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:4C1D95,100:8B5CF6&height=200&section=header&text=Leandro%20Canha&fontColor=FFFFFF&fontSize=60&fontAlignY=30" width="100%" alt="Banner roxo em forma de onda com o nome Leandro Canha" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:C15F3C,100:D97757&height=200&section=header&text=Leandro%20Canha&fontColor=FAF9F5&fontSize=60&fontAlignY=30" width="100%" alt="Banner terracota em forma de onda com o nome Leandro Canha" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&height=40&lines=Desenvolvedor+Fullstack;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+TypeScript;Engenharia+de+Software+na+PUCPR" alt="Texto digitado em sequência: Desenvolvedor Fullstack. Java, Spring Boot, React e TypeScript. Engenharia de Software na PUCPR." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D97757&center=true&vCenter=true&width=560&height=40&lines=Desenvolvedor+Fullstack;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+TypeScript;Engenharia+de+Software+na+PUCPR" alt="Texto digitado em sequência: Desenvolvedor Fullstack. Java, Spring Boot, React e TypeScript. Engenharia de Software na PUCPR." />
 </p>
 
 <p align="center">
-  <a href="mailto:leandrocanha10@gmail.com"><img src="https://img.shields.io/badge/E--mail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para Leandro Canha" /></a>
-  <a href="https://www.instagram.com/leandrocanha/"><img src="https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white" alt="Perfil de Leandro Canha no Instagram" /></a>
-  <a href="https://hub.docker.com/u/leandrocanha"><img src="https://img.shields.io/badge/Docker%20Hub-7C3AED?style=for-the-badge&logo=docker&logoColor=white" alt="Imagens de Leandro Canha no Docker Hub" /></a>
+  <a href="mailto:leandrocanha10@gmail.com"><img src="https://img.shields.io/badge/E--mail-D97757?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para Leandro Canha" /></a>
+  <a href="https://www.instagram.com/leandrocanha/"><img src="https://img.shields.io/badge/Instagram-D97757?style=for-the-badge&logo=instagram&logoColor=white" alt="Perfil de Leandro Canha no Instagram" /></a>
+  <a href="https://hub.docker.com/u/leandrocanha"><img src="https://img.shields.io/badge/Docker%20Hub-D97757?style=for-the-badge&logo=docker&logoColor=white" alt="Imagens de Leandro Canha no Docker Hub" /></a>
 </p>
 
 ### 👨‍💻 Sobre mim
@@ -54,7 +54,7 @@
       <sub>JavaScript · Serverless (Vercel) · pdf-lib · Canvas</sub>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/Le3Dev/SoftLovely">💜 SoftLovely</a></b><br />
+      <b><a href="https://github.com/Le3Dev/SoftLovely">🧡 SoftLovely</a></b><br />
       Página interativa com cenas 3D, animações de scroll, trilha sonora e pagamento via Stripe, com backend Spring Boot protegido por JWT.<br />
       <sub>Next.js · Three.js / R3F · framer-motion · Tailwind · Stripe · Spring Boot 3</sub>
     </td>
@@ -92,8 +92,8 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Le3Dev/Le3Dev/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Le3Dev/Le3Dev/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Le3Dev/Le3Dev/output/github-snake.svg" alt="Animação de uma cobrinha roxa percorrendo e comendo o gráfico de contribuições de Leandro Canha no GitHub" />
+    <img src="https://raw.githubusercontent.com/Le3Dev/Le3Dev/output/github-snake.svg" alt="Animação de uma cobrinha terracota percorrendo e comendo o gráfico de contribuições de Leandro Canha no GitHub" />
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:4C1D95,100:8B5CF6&height=110&section=footer" width="100%" alt="Rodapé roxo em forma de onda" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:C15F3C,100:D97757&height=110&section=footer" width="100%" alt="Rodapé terracota em forma de onda" />
