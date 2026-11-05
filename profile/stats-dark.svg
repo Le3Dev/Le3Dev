@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Leandro canha&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  : 155, Total PRs: 15, Merged PRs Percentage: 93.33, Total Issues: 0, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  : 168, Total PRs: 22, Merged PRs Percentage: 100.00, Total Issues: 0, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 225.68861513998138;
+        stroke-dashoffset: 220.6313496077487;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >155</text>
+      >168</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >15</text>
+      >22</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >93.33 %</text>
+      >100.00 %</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
