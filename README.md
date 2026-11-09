@@ -81,11 +81,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Le3Dev/Le3Dev/main/profile/stats-light.svg" />
     <img src="https://raw.githubusercontent.com/Le3Dev/Le3Dev/main/profile/stats-light.svg" height="165" alt="Estatísticas de Leandro Canha no GitHub: total de commits, total de pull requests e porcentagem de PRs integrados" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Le3Dev/Le3Dev/main/profile/top-langs-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Le3Dev/Le3Dev/main/profile/top-langs-light.svg" />
-    <img src="https://raw.githubusercontent.com/Le3Dev/Le3Dev/main/profile/top-langs-light.svg" height="165" alt="Card com as linguagens mais usadas por Leandro Canha nos seus repositórios, em porcentagem" />
-  </picture>
 </p>
 
 <p align="center">
