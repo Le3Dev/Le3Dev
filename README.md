@@ -84,11 +84,6 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Le3Dev/Le3Dev/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Le3Dev/Le3Dev/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Le3Dev/Le3Dev/output/github-snake.svg" alt="Animação de uma cobrinha terracota percorrendo e comendo o gráfico de contribuições de Leandro Canha no GitHub" />
-  </picture>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:C15F3C,100:D97757&height=110&section=footer" width="100%" alt="Rodapé terracota em forma de onda" />
